@@ -1,0 +1,20 @@
+* {
+  margin: 0;
+  padding: 0; }
+
+html, body, .box {
+  width: 100%; }
+
+.box {
+  position: relative; }
+  .box ul {
+    display: -webkit-flex; }
+  .box li {
+    list-style: none;
+    width: 100%;
+    position: absolute; }
+    .box li img {
+      width: 100%;
+      height: auto; }
+
+/*# sourceMappingURL=lun.css.map */

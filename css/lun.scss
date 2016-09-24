@@ -1,0 +1,22 @@
+*{
+	margin:0;
+	padding:0;
+}
+html,body,.box{
+	width:100%;
+}
+.box{
+     position:relative;
+	ul{
+       display:-webkit-flex;
+	}
+	li{
+	   list-style:none;
+	   width:100%;
+       position: absolute; 
+       img{
+       width:100%;
+	   height:auto;
+       }
+	}
+}

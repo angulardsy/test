@@ -1,0 +1,26 @@
+[
+   {
+   	  "width":320,
+   	  "height":480,
+        "title":"这是第一张图片",
+   	  "src":"images/1.jpg"
+   },
+   {
+   	  "width":320,
+      "height":480,
+        "title":"这是第一张图片",
+   	  "src":"images/2.jpg"
+   },
+   {
+   	 "width":320,
+      "height":480,
+        "title":"这是第一张图片",
+   	  "src":"images/3.jpg"
+   },
+   {
+   	 "width":320,
+      "height":480,
+        "title":"这是第一张图片",
+   	  "src":"images/4.jpg"
+   }
+]
